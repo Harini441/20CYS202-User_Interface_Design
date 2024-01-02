@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Category-BRIG-purple)
 
 ### UID-DBMS-10 - [Leave Management System](https://tpavankumarreddy.github.io/20CYS202-UID/Mini-Project/)
-![](https://img.shields.io/badge/Template-Partial-silver)
+![](https://img.shields.io/badge/Template-Own-yellow)
 
 #### Team Members
 - [T Pavan Kumar Reddy]()
