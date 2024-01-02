@@ -9,7 +9,7 @@
 - [Shree Harini T](https://github.com/Harini441)
 
 ### Deliverable 
-- [User Interface](ui/)
+- [User Interface](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User_Interface_Design/tree/main/Assignments/CB.EN.U4CYS22060/ui)
 
 ### Credential
 - No **Login** Credentials
